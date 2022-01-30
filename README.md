@@ -6,3 +6,4 @@ It loads templates of skip ad button for various resolution and zoom sizes of th
 It is successfully working on different machines with different resolutions.
 I have used pyautogui library to take the screenshots of the screen and then in a while loop it matches with different templates for the screenshot. Whenever it finds a match with 70 percent confidence it clicks on the skip ad button automatically.<br><br>
 I have used 70 percent as the confidence to initiate the click after meticulous experimentation. One can change it to check for the change in the performance.
+<br>
