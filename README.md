@@ -9,4 +9,4 @@ I have used 70 percent as the confidence to initiate the click after meticulous 
 <br><br>
 It does not take much RAM, neither it requires huge computational effort. I have optimized it a little bit to decrease its space and time complexity.<br><br>
 It does not have any graphical user interface(GUI). I have used a very ingenious technique to come out of the while loop whenever one wants to stop the script.I have used an conditional statement to check for the coordinates of the mouse pointer. If the coordinates are (0,0), i.e., if the mouse is at the top left corner of the screen, it breaks out of the while loop.
-<br>
+<br><br>
