@@ -14,8 +14,8 @@ import time
 # lopping over the template matching
 
 # reading the templates
-template3 = cv2.imread('template3.png', 0)
-template4 = cv2.imread('template4.png', 0)
+template3 = cv2.imread('Data/template3.png', 0)
+template4 = cv2.imread('Data/template4.png', 0)
 template5 = cv2.imread('template5.png', 0)
 template6 = cv2.imread('template6.png', 0)
 
